@@ -13,7 +13,7 @@
 #ifndef EXEC_H
 # define EXEC_H
 
-# include "../includes/minishell.h"
+# include "minishell.h"
 
 /*
 minishell.c

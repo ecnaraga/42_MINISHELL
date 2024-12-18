@@ -13,8 +13,6 @@
 #ifndef STRUCTURE_H
 # define STRUCTURE_H
 
-# include "../libft/includes/libft.h"
-
 # define NO_ENV 0
 # define ENV 1
 # define PIP 2
