@@ -1,6 +1,6 @@
 # 42_MINISHELL
 
-Goal
+Goal (2 people team project)
 
     - Mandatory : Write a mini shell :
       - handle redirections : < , << , > , >>
